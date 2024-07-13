@@ -1,0 +1,45 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Bringing web applications to life with the power of the MERN stack. Expert in crafting dynamic, responsive, and user-friendly interfaces."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Empowering robust and scalable web applications with the MERN stack. Specializing in building secure, efficient, and high-performance backend systems using MongoDB, Express.js, and Node.js."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "Crafting intuitive and visually captivating user experiences. Combining creativity with user-centered design principles to deliver seamless and engaging interfaces. "
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Explore Connect",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "https://github.com/adil-hussa1n/MERN-PROJECT-Main"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "JobNest",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "https://github.com/adil-hussa1n/JobNest"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "AC-Tech",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "https://github.com/adil-hussa1n/AC-TECH"
+    }
+  ]
+}
